@@ -1,0 +1,19 @@
+"Trait","Formula","Effect","Sum Sq","Df","F value","Pr(>F)"
+"RP1","RP1 ~ Intensity * Frequency * Composition","(Intercept)",36.3051171929824,1,1722.17901233859,7.96651980811009e-45
+"RP1","RP1 ~ Intensity * Frequency * Composition","Intensity",5.16850666666666,1,245.174630869555,1.71035170476364e-22
+"RP1","RP1 ~ Intensity * Frequency * Composition","Frequency",0.749980350877191,1,35.5762636181957,1.55901825563498e-07
+"RP1","RP1 ~ Intensity * Frequency * Composition","Composition",1.69207578947368,1,80.265748666447,1.54898695577093e-12
+"RP1","RP1 ~ Intensity * Frequency * Composition","Intensity:Frequency",0.403222456140352,1,19.127365643176,5.14920546207716e-05
+"RP1","RP1 ~ Intensity * Frequency * Composition","Intensity:Composition",0.178875789473685,1,8.48519862391799,0.00507669755964114
+"RP1","RP1 ~ Intensity * Frequency * Composition","Frequency:Composition",0.00789473684210518,1,0.374496796832757,0.542954879268527
+"RP1","RP1 ~ Intensity * Frequency * Composition","Intensity:Frequency:Composition",0.00990315789473706,1,0.469768781947026,0.49582393016136
+"RP1","RP1 ~ Intensity * Frequency * Composition","Residuals",1.22269333333333,58,NA,NA
+"RP2","RP2 ~ Intensity * Frequency * Composition","(Intercept)",50.7455003508771,1,673.999506968646,1.27132915287074e-33
+"RP2","RP2 ~ Intensity * Frequency * Composition","Intensity",2.35371929824561,1,31.2619963462969,6.3636996658338e-07
+"RP2","RP2 ~ Intensity * Frequency * Composition","Frequency",0.061306666666666,1,0.814272454139075,0.370592397784059
+"RP2","RP2 ~ Intensity * Frequency * Composition","Composition",2.59974877192983,1,34.5297490104019,2.17881378639737e-07
+"RP2","RP2 ~ Intensity * Frequency * Composition","Intensity:Frequency",0.0613066666666668,1,0.814272454139086,0.370592397784056
+"RP2","RP2 ~ Intensity * Frequency * Composition","Intensity:Composition",0.00134877192982419,1,0.0179143295352085,0.893988944409522
+"RP2","RP2 ~ Intensity * Frequency * Composition","Frequency:Composition",0.372245614035087,1,4.94414989695836,0.030088419308375
+"RP2","RP2 ~ Intensity * Frequency * Composition","Intensity:Frequency:Composition",0.012666666666667,1,0.16823811035932,0.683193616229532
+"RP2","RP2 ~ Intensity * Frequency * Composition","Residuals",4.36682666666667,58,NA,NA

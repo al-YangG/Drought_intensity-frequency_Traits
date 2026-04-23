@@ -1,0 +1,22 @@
+"Trait","Model","Formula","Effect","Chisq","Df","Pr(>Chisq)"
+"SP1","Tweedie GLMM","SP1 ~ (Intensity + Frequency + Composition)^2","(Intercept)",8.11800459893374e-07,1,0.99928110634713
+"SP1","Tweedie GLMM","SP1 ~ (Intensity + Frequency + Composition)^2","Intensity",3.32435539852775e-10,1,0.999985452318477
+"SP1","Tweedie GLMM","SP1 ~ (Intensity + Frequency + Composition)^2","Frequency",6.50664979604954e-11,1,0.99999356395936
+"SP1","Tweedie GLMM","SP1 ~ (Intensity + Frequency + Composition)^2","Composition",2.66919956190201e-07,1,0.999587778570873
+"SP1","Tweedie GLMM","SP1 ~ (Intensity + Frequency + Composition)^2","Intensity:Frequency",3.48024134417027e-07,1,0.99952929943751
+"SP1","Tweedie GLMM","SP1 ~ (Intensity + Frequency + Composition)^2","Intensity:Composition",4.48142596022031e-10,1,0.999983109279547
+"SP1","Tweedie GLMM","SP1 ~ (Intensity + Frequency + Composition)^2","Frequency:Composition",9.92305340285983e-11,1,0.999992051910923
+"SP2","Tweedie GLMM","SP2 ~ (Intensity + Frequency + Composition)^2","(Intercept)",44.6088839091314,1,2.40597466681637e-11
+"SP2","Tweedie GLMM","SP2 ~ (Intensity + Frequency + Composition)^2","Intensity",3.6272319145261,1,0.0568412824134335
+"SP2","Tweedie GLMM","SP2 ~ (Intensity + Frequency + Composition)^2","Frequency",0.0551923404585813,1,0.814262675351731
+"SP2","Tweedie GLMM","SP2 ~ (Intensity + Frequency + Composition)^2","Composition",1.50150438828255,1,0.220440032241674
+"SP2","Tweedie GLMM","SP2 ~ (Intensity + Frequency + Composition)^2","Intensity:Frequency",2.1285667929704,1,0.144575880491116
+"SP2","Tweedie GLMM","SP2 ~ (Intensity + Frequency + Composition)^2","Intensity:Composition",0.0166923306164665,1,0.897200343585793
+"SP2","Tweedie GLMM","SP2 ~ (Intensity + Frequency + Composition)^2","Frequency:Composition",0.0237309291215268,1,0.877571523231904
+"SPtotal","Tweedie GLMM","SPtotal ~ (Intensity + Frequency + Composition)^2","(Intercept)",39.3860832065612,1,3.47766703829941e-10
+"SPtotal","Tweedie GLMM","SPtotal ~ (Intensity + Frequency + Composition)^2","Intensity",3.18855572448298,1,0.0741555011102908
+"SPtotal","Tweedie GLMM","SPtotal ~ (Intensity + Frequency + Composition)^2","Frequency",0.00770217431045331,1,0.930065815131382
+"SPtotal","Tweedie GLMM","SPtotal ~ (Intensity + Frequency + Composition)^2","Composition",1.35176467205163,1,0.244969851253445
+"SPtotal","Tweedie GLMM","SPtotal ~ (Intensity + Frequency + Composition)^2","Intensity:Frequency",2.84875491245873,1,0.0914447314001052
+"SPtotal","Tweedie GLMM","SPtotal ~ (Intensity + Frequency + Composition)^2","Intensity:Composition",0.0498357482953211,1,0.823349330727892
+"SPtotal","Tweedie GLMM","SPtotal ~ (Intensity + Frequency + Composition)^2","Frequency:Composition",0.293211891968789,1,0.588169588201266

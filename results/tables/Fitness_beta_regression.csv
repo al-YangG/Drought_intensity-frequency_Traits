@@ -1,0 +1,25 @@
+"Trait","Formula","Effect","Chisq","Df","Pr(>Chisq)"
+"SER","SER_beta ~ Intensity * Frequency * Composition","(Intercept)",21.8693028465152,1,2.91865739949033e-06
+"SER","SER_beta ~ Intensity * Frequency * Composition","Intensity",9.18051651124988,1,0.0024460498461952
+"SER","SER_beta ~ Intensity * Frequency * Composition","Frequency",1.35563564902013,1,0.244295296142848
+"SER","SER_beta ~ Intensity * Frequency * Composition","Composition",22.5093169529804,1,2.09126823340398e-06
+"SER","SER_beta ~ Intensity * Frequency * Composition","Intensity:Frequency",0.820736421864534,1,0.364964941358406
+"SER","SER_beta ~ Intensity * Frequency * Composition","Intensity:Composition",4.46637098935299,1,0.0345683380224366
+"SER","SER_beta ~ Intensity * Frequency * Composition","Frequency:Composition",1.11357557855799,1,0.291306015769095
+"SER","SER_beta ~ Intensity * Frequency * Composition","Intensity:Frequency:Composition",1.71091362074247,1,0.190866875780682
+"SSR1","SSR1_beta ~ Intensity * Frequency * Composition","(Intercept)",428.457283655826,1,3.52096338313102e-95
+"SSR1","SSR1_beta ~ Intensity * Frequency * Composition","Intensity",5.50990611812422,1,0.0189090618613072
+"SSR1","SSR1_beta ~ Intensity * Frequency * Composition","Frequency",1.68837694407965,1,0.19381506189966
+"SSR1","SSR1_beta ~ Intensity * Frequency * Composition","Composition",0.00913080073286202,1,0.923873828891511
+"SSR1","SSR1_beta ~ Intensity * Frequency * Composition","Intensity:Frequency",2.91514303082888,1,0.0877516320417015
+"SSR1","SSR1_beta ~ Intensity * Frequency * Composition","Intensity:Composition",0.258250361789546,1,0.611324735586929
+"SSR1","SSR1_beta ~ Intensity * Frequency * Composition","Frequency:Composition",2.46199333707398,1,0.116630688362353
+"SSR1","SSR1_beta ~ Intensity * Frequency * Composition","Intensity:Frequency:Composition",1.34605771217664,1,0.245968497032967
+"SSR2","SSR2_beta ~ Intensity * Frequency * Composition","(Intercept)",33.2872960004562,1,7.95003018826191e-09
+"SSR2","SSR2_beta ~ Intensity * Frequency * Composition","Intensity",5.1877085219244,1,0.0227471902587474
+"SSR2","SSR2_beta ~ Intensity * Frequency * Composition","Frequency",2.61225890394137,1,0.106040617275567
+"SSR2","SSR2_beta ~ Intensity * Frequency * Composition","Composition",0.000594152747953587,1,0.980553291155041
+"SSR2","SSR2_beta ~ Intensity * Frequency * Composition","Intensity:Frequency",1.45821369351799,1,0.227214554757978
+"SSR2","SSR2_beta ~ Intensity * Frequency * Composition","Intensity:Composition",0.176172600714884,1,0.674683291745637
+"SSR2","SSR2_beta ~ Intensity * Frequency * Composition","Frequency:Composition",0.00432621037972877,1,0.947557809025526
+"SSR2","SSR2_beta ~ Intensity * Frequency * Composition","Intensity:Frequency:Composition",0.196791240026908,1,0.657323427062141
