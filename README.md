@@ -1,6 +1,6 @@
 # DIF-Traits: Drought intensity and frequency effects on plant traits
 
-Data and R scripts from a factorial drought experiment investigating the effects of drought intensity and frequency on plant functional traits and fitness.
+Data and R scripts from a factorial drought experiment investigating the effects of drought intensity (water amount) and frequency (watering frequency) on plant functional traits and fitness.
 
 This repository contains a complete and reproducible workflow, including model selection, statistical analyses, visualization, and multivariate approaches.
 
@@ -18,19 +18,20 @@ All scripts are numbered to reflect the analysis workflow:
 1. Model selection (AIC/BIC comparison)  
 2. ANOVA and variance partitioning  
 3. Variance heatmaps  
-4. Trait responses (standardized)  
-5. Main effects (significant effects only)  
-6. Interactive effects (EMMs and contrasts)  
-7. Fitness traits (sprouting, survival, reproduction)  
-8. Fitness plots  
-9. Trait correlations and network analysis  
-10. PCA and RDA analyses  
-11. PCA visualization  
+4. Trait responses (Inula)
+5. Trait responses (Bromus)  
+6. Main effects (significant effects only)  
+7. Interactive effects (EMMs and contrasts)  
+8. Fitness traits (sprouting, survival, reproduction)  
+9. Fitness plots  
+10. Trait correlations and network analysis  
+11. PCA and RDA analyses  
+12. PCA visualization  
 
 ## Data
 
 - DIF-Traits_data.csv — main dataset (traits, treatments, fitness)  
-- Metadata.pdf — description of variables and experimental design  
+- DIF-Traits_metadata.pdf — description of variables and experimental design  
 
 ## Results
 
@@ -61,7 +62,7 @@ tidyverse, dplyr, ggplot2, glmmTMB, emmeans, car, DHARMa, performance, vegan, fa
 
 ## Workflow
 
-Run scripts sequentially from 01 to 11.  
+Run scripts sequentially from 01 to 12.  
 Each script reads from data/ and writes outputs to results/.
 
 ## License
@@ -70,4 +71,4 @@ See LICENSE file for details.
 
 ## Author
 Yang [yangg@natur.cuni.cz]
-April 2026
+October 2026
