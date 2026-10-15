@@ -1,0 +1,36 @@
+"Trait","N_obs","Formula","Effect","Sum Sq","Df","F value","Pr(>F)","Note"
+"N_Inula",33,"N_Inula ~ Amount * Frequency","(Intercept)",564.015789473684,1,37.2669352807857,1.19570280962162e-06,NA
+"N_Inula",33,"N_Inula ~ Amount * Frequency","Amount",287.763157894737,1,19.0137424901968,0.00014920456469732,NA
+"N_Inula",33,"N_Inula ~ Amount * Frequency","Frequency",51.3,1,3.38961038961039,0.0758601472436465,NA
+"N_Inula",33,"N_Inula ~ Amount * Frequency","Amount:Frequency",0.142105263157873,1,0.00938950246429329,0.923472834572687,NA
+"N_Inula",33,"N_Inula ~ Amount * Frequency","Residuals",438.9,29,NA,NA,NA
+"SB_Inula",33,"SB_Inula ~ Amount * Frequency","(Intercept)",1.45232695270852,1,7.01269198147925,0.0129545534594803,NA
+"SB_Inula",33,"SB_Inula ~ Amount * Frequency","Amount",0.0139650539331502,1,0.0674315253567991,0.796948540785774,NA
+"SB_Inula",33,"SB_Inula ~ Amount * Frequency","Frequency",0.438636070531171,1,2.11799391925136,0.156317614882346,NA
+"SB_Inula",33,"SB_Inula ~ Amount * Frequency","Amount:Frequency",0.436925038451798,1,2.10973204617884,0.157099906598434,NA
+"SB_Inula",33,"SB_Inula ~ Amount * Frequency","Residuals",6.00589356266905,29,NA,NA,NA
+"TB_Inula",33,"TB_Inula ~ Amount * Frequency","(Intercept)",4.25693531975243,1,9.27740366641587,0.00490267849137894,NA
+"TB_Inula",33,"TB_Inula ~ Amount * Frequency","Amount",0.00932345998583983,1,0.0203191957028237,0.887634982932692,NA
+"TB_Inula",33,"TB_Inula ~ Amount * Frequency","Frequency",1.22828467478175,1,2.67687711681872,0.112623987059513,NA
+"TB_Inula",33,"TB_Inula ~ Amount * Frequency","Amount:Frequency",1.10567791120381,1,2.40967257822321,0.1314338496902,NA
+"TB_Inula",33,"TB_Inula ~ Amount * Frequency","Residuals",13.3066457719968,29,NA,NA,NA
+"R_S_Inula",26,"R_S_Inula ~ Amount + Frequency","(Intercept)",14.7179873647059,1,105.572082096613,4.57221922835119e-10,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"R_S_Inula",26,"R_S_Inula ~ Amount + Frequency","Amount",0.369227444444444,1,2.64846742365651,0.117273204466976,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"R_S_Inula",26,"R_S_Inula ~ Amount + Frequency","Frequency",0.0201227812865499,1,0.144340653742523,0.707489043614083,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"R_S_Inula",26,"R_S_Inula ~ Amount + Frequency","Residuals",3.20646995555555,23,NA,NA,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"SLA_Inula",26,"SLA_Inula ~ Amount + Frequency","(Intercept)",3577.47091060168,1,292.339288684834,1.43010382995333e-14,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"SLA_Inula",26,"SLA_Inula ~ Amount + Frequency","Amount",20.7354685803572,1,1.69443505951774,0.205904903430213,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"SLA_Inula",26,"SLA_Inula ~ Amount + Frequency","Frequency",41.4219673473684,1,3.38486846514134,0.0787401178251268,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"SLA_Inula",26,"SLA_Inula ~ Amount + Frequency","Residuals",281.460050457143,23,NA,NA,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"LDMC_Inula",26,"LDMC_Inula ~ Amount + Frequency","(Intercept)",1886260.15480612,1,2924.55301505838,9.52758873386365e-26,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"LDMC_Inula",26,"LDMC_Inula ~ Amount + Frequency","Amount",2395.59275258037,1,3.71424799996957,0.0663906475304956,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"LDMC_Inula",26,"LDMC_Inula ~ Amount + Frequency","Frequency",1948.3721867842,1,3.02085464658574,0.0955727641508093,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"LDMC_Inula",26,"LDMC_Inula ~ Amount + Frequency","Residuals",14834.3980557572,23,NA,NA,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"Chl_Inula",26,"Chl_Inula ~ Amount + Frequency","(Intercept)",3055841.85630252,1,755.24247967362,4.30915493046421e-19,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"Chl_Inula",26,"Chl_Inula ~ Amount + Frequency","Amount",124.089049167655,1,0.0306682497330266,0.862515116783647,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"Chl_Inula",26,"Chl_Inula ~ Amount + Frequency","Frequency",10591.0685081286,1,2.61755196067332,0.119321008279733,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"Chl_Inula",26,"Chl_Inula ~ Amount + Frequency","Residuals",93061.9828552699,23,NA,NA,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"PSIIeff_Inula",26,"PSIIeff_Inula ~ Amount + Frequency","(Intercept)",4.92454512941176,1,1406.44682111139,3.93580699487842e-22,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"PSIIeff_Inula",26,"PSIIeff_Inula ~ Amount + Frequency","Amount",0.0089464375,1,2.55509661328857,0.123587745185524,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"PSIIeff_Inula",26,"PSIIeff_Inula ~ Amount + Frequency","Frequency",0.00122275789473685,1,0.349218843334452,0.560318748676829,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"
+"PSIIeff_Inula",26,"PSIIeff_Inula ~ Amount + Frequency","Residuals",0.0805324,23,NA,NA,"Functional trait analysed among surviving Inula only; interaction omitted because Dry-High had no surviving Inula trait measurements"

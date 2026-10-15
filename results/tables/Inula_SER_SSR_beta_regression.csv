@@ -1,0 +1,9 @@
+"Trait","Formula","Effect","Chisq","Df","Pr(>Chisq)"
+"SER_Inula","SER_Inula_beta ~ Amount * Frequency","(Intercept)",4106.56638371075,1,0
+"SER_Inula","SER_Inula_beta ~ Amount * Frequency","Amount",7.53806861972331,1,0.00604087628480842
+"SER_Inula","SER_Inula_beta ~ Amount * Frequency","Frequency",0.514398586491057,1,0.473240916072507
+"SER_Inula","SER_Inula_beta ~ Amount * Frequency","Amount:Frequency",4.12765270919798,1,0.0421878298602426
+"SSR2_Inula","SSR2_Inula_beta ~ Amount * Frequency","(Intercept)",0.666145942085026,1,0.414398542750784
+"SSR2_Inula","SSR2_Inula_beta ~ Amount * Frequency","Amount",14.1581124879629,1,0.00016807081524206
+"SSR2_Inula","SSR2_Inula_beta ~ Amount * Frequency","Frequency",2.36663399047879,1,0.123954064294103
+"SSR2_Inula","SSR2_Inula_beta ~ Amount * Frequency","Amount:Frequency",1.05350105381096,1,0.304702138410637
